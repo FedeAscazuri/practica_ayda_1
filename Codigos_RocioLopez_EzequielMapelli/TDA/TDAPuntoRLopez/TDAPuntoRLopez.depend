@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1570228159 source:c:\users\rocio\onedrive\documentos\ayda i\tdapuntorlopez\main.cpp
+	<iostream>
+	"Punto.h"
+
+1570454432 source:c:\users\rocio\onedrive\documentos\ayda i\tdapuntorlopez\src\punto.cpp
+	"Punto.h"
+	<cmath>
+
+1570455387 c:\users\rocio\onedrive\documentos\ayda i\tdapuntorlopez\include\punto.h
+
+1571771306 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\main.cpp
+	<iostream>
+	"Arbin.h"
+	"Pila.h"
+	"Lista.h"
+
+1570455387 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\include\punto.h
+
+1570454432 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\src\punto.cpp
+	"Punto.h"
+	<cmath>
+
+1571760210 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\src\pila.cpp
+	"Pila.h"
+	<assert.h>
+	"Punto.h"
+
+1571760330 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\include\pila.h
+	"Punto.h"
+
+1571750974 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\src\segmento.cpp
+	"Segmento.h"
+
+1570455643 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\include\segmento.h
+	"Punto.h"
+
+1571760330 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\src\fila.cpp
+	"Fila.h"
+	"Fila.h"
+	"Punto.h"
+
+1571760330 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\include\fila.h
+	"Fila.h"
+
+1571769190 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\src\lista.cpp
+	"Lista.h"
+	<assert.h>
+
+1571768486 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\include\lista.h
+	"Lista.h"
+	<cstddef>
+	"Punto.h"
+
+1571760619 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\src\conjunto.cpp
+	"Conjunto.h"
+	<assert.h>
+	<cstddef>
+
+1571760619 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\include\conjunto.h
+	"Conjunto.h"
+
+1571760073 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\src\arbin.cpp
+	"Arbin.h"
+	<cassert>
+	<iostream>
+
+1571759899 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapuntorlopez\include\arbin.h
+
+1589760715 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\main.cpp
+	<iostream>
+	"Arbin.h"
+	"Pila.h"
+	"Lista.h"
+
+1571759899 c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\include\arbin.h
+
+1571760330 c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\include\pila.h
+	"Punto.h"
+
+1570455387 c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\include\punto.h
+
+1571768486 c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\include\lista.h
+	"Lista.h"
+	<cstddef>
+	"Punto.h"
+
+1571760073 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\src\arbin.cpp
+	"Arbin.h"
+	<cassert>
+	<iostream>
+
+1571760619 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\src\conjunto.cpp
+	"Conjunto.h"
+	<assert.h>
+	<cstddef>
+
+1571760619 c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\include\conjunto.h
+	"Conjunto.h"
+
+1571760330 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\src\fila.cpp
+	"Fila.h"
+	"Fila.h"
+	"Punto.h"
+
+1571760330 c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\include\fila.h
+	"Fila.h"
+
+1571769190 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\src\lista.cpp
+	"Lista.h"
+	<assert.h>
+
+1571760210 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\src\pila.cpp
+	"Pila.h"
+	<assert.h>
+	"Punto.h"
+
+1570454432 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\src\punto.cpp
+	"Punto.h"
+	<cmath>
+
+1571750974 source:c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\src\segmento.cpp
+	"Segmento.h"
+
+1570455643 c:\users\rocio\onedrive\documentos\zz ayda i\tda codigo rocio\tdapuntorlopez\include\segmento.h
+	"Punto.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:d:\usuario\documents\universidad\segundo - 1º cuatrimestre\analisis y diseño de algoritmos i\c++\ayda 1\tda heap\main.cpp
+	<iostream>
+
+1644119114 source:d:\usuario\documents\universidad\segundo - 1º cuatrimestre\analisis y diseño de algoritmos i\c++\ayda 1\tda heap\src\heap.cpp
+	<cassert>
+	<iostream>
+	<limits>
+	"Heap.h"
+
+1644119114 d:\usuario\documents\universidad\segundo - 1º cuatrimestre\analisis y diseño de algoritmos i\c++\ayda 1\tda heap\include\heap.h
+

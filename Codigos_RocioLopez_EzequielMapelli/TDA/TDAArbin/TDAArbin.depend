@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdaarbin\main.cpp
+	<iostream>
+
+1571702275 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdaarbin\src\arbin.cpp
+	"Arbin.h"
+	<cassert>
+	<iostream>
+
+1571700814 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdaarbin\include\arbin.h
+

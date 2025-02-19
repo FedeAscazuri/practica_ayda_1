@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643810833 source:c:\users\rocio\onedrive\documentos\universidad\ya cursadas\ayda i\tda codigo rocio\tda_tabla\main.cpp
+	<iostream>
+	"Tabla.h"
+
+1643811072 source:c:\users\rocio\onedrive\documentos\universidad\ya cursadas\ayda i\tda codigo rocio\tda_tabla\src\tabla.cpp
+	"Tabla.h"
+	<assert.h>
+
+1643810833 c:\users\rocio\onedrive\documentos\universidad\ya cursadas\ayda i\tda codigo rocio\tda_tabla\include\tabla.h
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\rocio\onedrive\documentos\ayda i\tdapila\main.cpp
+	<iostream>
+
+1571171871 source:c:\users\rocio\onedrive\documentos\ayda i\tdapila\src\pila.cpp
+	"Pila.h"
+	<assert.h>
+
+1571171741 c:\users\rocio\onedrive\documentos\ayda i\tdapila\include\pila.h
+	"Pila.h"
+
+1571172120 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapila\main.cpp
+	<iostream>
+	<Pila.h>
+
+1571757975 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdapila\include\pila.h
+	"Pila.h"
+

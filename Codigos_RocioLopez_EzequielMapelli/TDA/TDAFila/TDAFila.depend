@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\rocio\onedrive\documentos\ayda i\tdafila\main.cpp
+	<iostream>
+
+1571174894 source:c:\users\rocio\onedrive\documentos\ayda i\tdafila\src\fila.cpp
+	"Fila.h"
+
+1571174894 c:\users\rocio\onedrive\documentos\ayda i\tdafila\include\fila.h
+	"Fila.h"
+
+1571175092 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdafila\main.cpp
+	<iostream>
+	<Fila.h>
+
+1571751909 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdafila\include\fila.h
+	"Fila.h"
+

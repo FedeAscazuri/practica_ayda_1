@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1571686349 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdaconjunto\main.cpp
+	<iostream>
+	"Conjunto.h"
+
+1571670620 c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdaconjunto\include\conjunto.h
+	"Conjunto.h"
+
+1571686820 source:c:\users\rocio\onedrive\documentos\ayda i\tda codigo rocio\tdaconjunto\src\conjunto.cpp
+	"Conjunto.h"
+	<assert.h>
+	<cstddef>
+
+1645370156 source:c:\users\rocio\onedrive\documentos\universidad\ya cursadas\ayda i\tda codigo rocio\tdaconjunto\main.cpp
+	<iostream>
+	<string>
+	"Conjunto.h"
+
+1645198183 c:\users\rocio\onedrive\documentos\universidad\ya cursadas\ayda i\tda codigo rocio\tdaconjunto\include\conjunto.h
+	"Conjunto.h"
+
+1645370079 source:c:\users\rocio\onedrive\documentos\universidad\ya cursadas\ayda i\tda codigo rocio\tdaconjunto\src\conjunto.cpp
+	"Conjunto.h"
+	<assert.h>
+	<cstddef>
+	<string>
+
