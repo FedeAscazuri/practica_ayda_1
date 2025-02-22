@@ -19,10 +19,10 @@ void DivideMAXMIN(int Arreglo[], int inicio, int fin, int &MAX, int &MIN) {
             int minn = Arreglo[inicio];
 
             int tercero = (fin - inicio) / 3;
-	        int mitad1 = (inicio + tercero) +1;
+	        int mitad1 = (inicio + tercero);
 	        int mitad2 = mitad1 + tercero + 1;
 
-            DivideMAXMIN(Arreglo, inicio, tercero, MAX, MIN);
+            DivideMAXMIN(Arreglo, inicio, mitad1, MAX, MIN);
             DivideMAXMIN(Arreglo, mitad1 + 1, mitad2, maxx, minn);
 	        DivideMAXMIN(Arreglo, mitad2+1,fin,maxx,minn);
 
